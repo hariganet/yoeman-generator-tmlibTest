@@ -1,0 +1,16 @@
+{
+  "name": "myappsbyyoeman",
+  "version": "0.0.0",
+  "main": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test"
+  ],
+  "dependencies": {
+    "tmlib.js": "0.1.7",
+    "bootstrap": "2.3.2"
+  }
+}
+
